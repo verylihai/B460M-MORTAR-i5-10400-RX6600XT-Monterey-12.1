@@ -17,8 +17,13 @@ Open Core 0.7.5 + Mac OS Monterey 12.1
 + [x] 板载声卡
 + [x] 板载网卡
 + [x] WiFi + 蓝牙
++ [x] 核显加速
 + [x] Airdrop（需要苹果网卡）
 
 # 已知问题
 
 USB没有完全测试
+
+![avatar](./images/1.png)
+
+![avatar](./images/2.png)
